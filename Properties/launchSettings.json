@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "htpcovgen": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\temp\\cover.png htp001 1 \"#CCCCCC\""
+    }
+  }
+}

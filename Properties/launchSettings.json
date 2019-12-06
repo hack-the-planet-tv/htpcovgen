@@ -2,7 +2,7 @@
   "profiles": {
     "htpcovgen": {
       "commandName": "Project",
-      "commandLineArgs": "\"assets\\cover.png\" \"assets\\cover_1080p.png\" htp006 6 \"Monitoring Release Pipeline\""
+      "commandLineArgs": "\"assets\\cover.png\" \"assets\\cover_1080p.png\" htp014 14 \"Virtueller Bürgermeister\""
     }
   }
 }

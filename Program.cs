@@ -28,7 +28,7 @@ namespace htpcovgen
             var font = SystemFonts.CreateFont("Consolas", 100, FontStyle.Regular);
             var rendererOptions = new RendererOptions(font);
             var image = Image.Load(src_path);
-            image.Mutate(ctx => ctx.DrawText(text, font, Rgba32.Black, new PointF(100, 00)));
+            image.Mutate(ctx => ctx.DrawText(text, font, Rgba32.Black, new PointF(100, 2700)));
             image.Save(OUTPUT_DIR + "/" + slug + ".png");
 
             // create 1080p cover
